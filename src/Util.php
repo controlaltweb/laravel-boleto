@@ -535,7 +535,7 @@ final class Util
             return $limit;
         }
 
-        return $limit + 9000;
+        return $limit + 1000;
     }
 
     /**
